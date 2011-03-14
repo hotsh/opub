@@ -6,11 +6,11 @@ Gem::Specification.new do |s|
   s.name        = "opub"
   s.version     = OPub::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["TODO: Write your name"]
-  s.email       = ["TODO: Write your email address"]
+  s.authors     = ['Hackers of the Severed Hand']
+  s.email       = ['hotsh@xomb.org']
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{This is a simple implementation of a publisher in the PubSubHubbub protocol.}
+  s.description = %q{This is a simple implementation of a publisher in the PubSubHubbub protocol.}
 
   s.rubyforge_project = "opub"
 
